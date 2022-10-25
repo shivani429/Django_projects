@@ -1,1 +1,1 @@
-# Django_projects
+# django_using_foriegnkey
